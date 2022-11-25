@@ -1,8 +1,9 @@
-title: Moonwalk
-author: Abhinav Saxena
+title: Zaki Ahamad
+author: Zaki Ahamad
 url: zakiahamad.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  A go-getter and a visionary with the core values of family, openness, honesty, and integrity looking to pursue my goals and ambitions. These goals include understanding my strengths and weaknesses so I can strive to be the best I can be and max out my potential for future success, higher education, and professionalism. I plan on majoring in computer science and pursuing a career as a game developer. I will achieve these goals by completing my studies and doing what I do well and love with a passion, programming.
+
 
 permalink: /:slug
 
