@@ -4,4 +4,4 @@ author: Zaki Ahamad
 tags: [project, learning]
 ---
 
-Coming Soon!
+Full documentation and reflection coming soon!
